@@ -1,0 +1,9 @@
+.terraform/
+*.tfstate
+.env
+*.pem
+__pycache__/
+*.pyc
+venv/
+env/
+*.sqlite
